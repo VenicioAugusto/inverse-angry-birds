@@ -38,3 +38,26 @@ void ALockConstraint::LockRotation(bool bShouldLockRotation)
     }
 }
 
+void ALockConstraint::LockTranslation(bool bShouldLockRotation)
+{
+    if (MeshComponent)
+    {
+
+        if (bShouldLockRotation)
+        {
+            MeshComponent->BodyInstance.bLockXTranslation = true;
+            MeshComponent->BodyInstance.bLockYTranslation = true;
+            MeshComponent->BodyInstance.bLockZTranslation = true;
+            MeshComponent->BodyInstance.SetDOFLock(EDOFMode::SixDOF);
+        }
+        else
+        {
+            MeshComponent->BodyInstance.bLockXTranslation = false;
+            MeshComponent->BodyInstance.bLockYTranslation = true;
+            MeshComponent->BodyInstance.bLockZTranslation = false;
+            MeshComponent->BodyInstance.SetDOFLock(EDOFMode::SixDOF);
+
+        }
+    }
+}
+

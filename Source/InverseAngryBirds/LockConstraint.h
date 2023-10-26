@@ -18,6 +18,9 @@ private:
         UStaticMeshComponent* MeshComponent;
 
     // Function to lock or unlock rotation
-    UFUNCTION(BlueprintCallable, Category = "Rotation")
+    UFUNCTION(BlueprintCallable, Category = "Custom Constraints")
         void LockRotation(bool bShouldLockRotation);
+
+    UFUNCTION(BlueprintCallable, Category = "Custom Constraints")
+        void LockTranslation(bool bShouldLockTranslation);
 };
