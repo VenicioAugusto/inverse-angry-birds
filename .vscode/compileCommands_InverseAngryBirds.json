@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\Source\\InverseAngryBirds\\InverseAngryBirds.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\.vscode\\compileCommands_InverseAngryBirds\\InverseAngryBirds.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\Source\\InverseAngryBirds\\InverseAngryBirds.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\.vscode\\compileCommands_InverseAngryBirds\\InverseAngryBirds.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\Source\\InverseAngryBirds\\InverseAngryBirds.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\.vscode\\compileCommands_InverseAngryBirds\\InverseAngryBirds.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\Source\\InverseAngryBirds\\ManageObjectsClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\.vscode\\compileCommands_InverseAngryBirds\\InverseAngryBirds.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\Source\\InverseAngryBirds\\ManageObjectsClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Venicio\\Documents\\Unreal Projects\\InverseAngryBirds\\.vscode\\compileCommands_InverseAngryBirds\\InverseAngryBirds.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
